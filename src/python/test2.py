@@ -11,3 +11,7 @@ class test2:
         
 t2 = test2("test2")
 t2.getX()
+
+a = 3;
+a |= 10;
+print(a)
